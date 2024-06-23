@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">fragment lifecycle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="pass_value">Pass Value</string>
+    <string name="increase">Inc</string>
+    <string name="inc">Inc</string>
+    <string name="reset">Reset</string>
+    <string name="decrease">Decrease</string>
+    <string name="green">Green</string>
+    <string name="Red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="counter">Counter</string>
+    <string name="pass">Pass</string>
+</resources>
